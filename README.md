@@ -24,7 +24,7 @@ On this course I used the following development technologies:
 
 ## Setup
 
-The setup for this proyect was made on a Windows 10 OS.
+The setup for this project was made on a Windows 10 OS.
 
 ### IntelliJ IDEA
 
