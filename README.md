@@ -1,4 +1,4 @@
-# java-basico
+# Basics of Java 
 Introductory course to Java SE
 
 ## Table of contents
