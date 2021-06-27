@@ -10,7 +10,11 @@ Introductory course to Java SE
 
 ## General info
 
+On this course I learned the basics of Java, such as how to declare variables, operators, and methods. Also, the use of the Math class, how and when to cast variables and casting among data types.
 
+We also practiced the implementation of if-else, switch conditions, functions, while, do-while and for loops. As well as examples on how to declare and manage arrays.
+
+Also, I learned good programming practices in Java, such as code modularity, to not give all the responsability to a single method or class, and documentation with Javadoc.
 
 ## Technologies
 
