@@ -7,7 +7,7 @@ public class ForLoop {
         for(int i = 1; isTurnOnLight && i <= 10; i++){
             printSOS();
         }
-        
+
     }
 
     public static void printSOS() {
